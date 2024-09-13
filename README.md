@@ -38,4 +38,5 @@ As a user, I want my previously saved notes to be loaded automatically when the 
 - [LifeCycle Hooks](https://my.skilldisplay.eu/en/skill/2974/0)
 - [Template Refs](https://my.skilldisplay.eu/en/skill/2975/0)
 - [Slots](https://my.skilldisplay.eu/en/skill/2977/0)  
-- [Transitions](https://my.skilldisplay.eu/en/skill/2978/0) 	 
+- [Transitions](https://my.skilldisplay.eu/en/skill/2978/0)
+- [localStorage](https://my.skilldisplay.eu/en/skill/3008/0)
