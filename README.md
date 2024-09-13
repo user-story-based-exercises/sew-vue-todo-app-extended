@@ -5,7 +5,7 @@ SEW | Todo App extended
 
 ### Acceptance Criteria
 - A watcher is implemented in the form component to monitor the character count of the input.
-- If the character count exceeds 200 characters, a warning message is displayed to the user.
+- If the character count exceeds 50 characters, a warning message is displayed to the user.
 - The warning message should be clear and informative, indicating the character limit has been exceeded.
 
 ## User Story 2
